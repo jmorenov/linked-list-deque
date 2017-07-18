@@ -1,0 +1,11 @@
+{
+  "name": "LinkedListDeque",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jmorenov/LinkedListDeque.git",
+  "author": "Javier Moreno <jmorenov28@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
