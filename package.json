@@ -1,8 +1,8 @@
 {
-  "name": "Deque",
+  "name": "linked-list-deque",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/jmorenov/Deque.git",
+  "repository": "https://github.com/jmorenov/linked-list-deque.git",
   "author": "Javier Moreno <jmorenov28@gmail.com>",
   "license": "MIT",
   "scripts": {
